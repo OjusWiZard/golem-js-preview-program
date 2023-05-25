@@ -1,0 +1,24 @@
+{
+  "name": "5th-task",
+  "version": "1.0.0",
+  "main": "harvest.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OjusWiZard/golem-js-preview-program.git"
+  },
+  "author": "OjusWiZard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OjusWiZard/golem-js-preview-program/issues"
+  },
+  "homepage": "https://github.com/OjusWiZard/golem-js-preview-program#readme",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "yajsapi": "^0.7.0-alpha.0"
+  }
+}

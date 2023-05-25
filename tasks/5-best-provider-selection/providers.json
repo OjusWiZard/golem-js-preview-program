@@ -1,0 +1,52 @@
+{
+  "0xa8c8558c13767a037577af34bdb5ee9edd4610a1": {
+    "providerName": "fractal_01_2.h",
+    "cost": 0.08960230301785001,
+    "timeTaken": 605
+  },
+  "0x09ce147a655b09d6a78810287c71139f7453c8a4": {
+    "providerName": "czc8358cgc_1.h",
+    "cost": 0.08970450575190002,
+    "timeTaken": 624
+  },
+  "0xc0f2e0c2793fa9d3527dfbec37d1152c00b1a1b7": {
+    "providerName": "1nxt4s2_2.h",
+    "cost": 0.08945609405725,
+    "timeTaken": 631
+  },
+  "0x6ec96baadf4c9b4d35ac6618d1005db056b0c4fa": {
+    "providerName": "10hx4r2_0.h",
+    "cost": 0.09510409153775,
+    "timeTaken": 631
+  },
+  "0xb523af9417d5e41a017d15da9179af820a515279": {
+    "providerName": "fractal_02_2.h",
+    "cost": 0.09584504881005002,
+    "timeTaken": 604
+  },
+  "0x448919aeab45bcedd7aca26a38e831e888d1a4a9": {
+    "providerName": "10hx4r2_3.h",
+    "cost": 0.08655060119145,
+    "timeTaken": 634
+  },
+  "0xcf5514c557efd9ed5e5b8ac633cf9074406009ce": {
+    "providerName": "10jx4r2_5.h",
+    "cost": 0.08549745874615,
+    "timeTaken": 626
+  },
+  "0x29c44289f6e36eeb377898ee6633aa9adb81793c": {
+    "providerName": "bristlecone.h",
+    "cost": 0.10815401550905,
+    "timeTaken": 718
+  },
+  "0x5807a536ba7dae4ad22415bed539842ae7240bf0": {
+    "providerName": "imapp1019_1.h",
+    "cost": 0.1106022759669,
+    "timeTaken": 735
+  },
+  "0x3d97d4ce6960b60a62a63f201f0f0d7d6dd87f00": {
+    "providerName": "imapp2030_2.h",
+    "cost": 0.12039890178725,
+    "timeTaken": 778
+  }
+}
